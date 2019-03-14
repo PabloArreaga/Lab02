@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TDALibrary;
 
-namespace EstructurasDatos
+namespace EstructuraDatos
 {
-    public class Class1
-    {
-    }
+	interface IArbolAVL<T, K>
+	{
+
+	}
 }
